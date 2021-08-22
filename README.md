@@ -52,6 +52,7 @@ Thanks to all my patreons for their support, both those listed and those not lis
 
 ### willvin
 
+- [Radsystems Tutorial - How to Configure the Roles and Permission in Radsystems Studio(PHPRad Classic)](https://www.youtube.com/watch?v=MrI5O8golLQ): This tutorial teaches you how to properly configure Roles and Permission in your Radsystems Studio (PHPRad Classic) Project. And also provide clarity to all tables created by Radsystems Studio, due to the configuration of Roles and Permission.
 - [Radsystems Tutorial - Publishing and uploading you PHPRad Vue project](https://www.youtube.com/watch?v=B9TkfGEefgs): Publishing your radsystems app tutorial shows you how to properly compile and publish your phprad Vue app and publishing it to your live server. This tutorial only focuses on the Laravel + Vue app, but the same procedure used for the laravel API can be adapted to the phprad classic project type. Stay tuned as more tutorials on publishing the other project types will be posted.
 - [PHPRad Tips & Tricks 15 - Understanding the List Page Footer Expression](https://www.youtube.com/watch?v=_c4uyWsD-3Q): This video explains how you can properly use phprad's List Page Footer Expression in your PHPRad Projects. This is part 1 of a 1 video series.
 - [PHPRad Tips and Tricks 6: How to use the Page Events properly - Part 1](https://www.youtube.com/watch?v=W0tsxWBHuqU): This video explains how you can use the Page Events in your PHPRad Projects. This is part 1 of a 2 video series.
